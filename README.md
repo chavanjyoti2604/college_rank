@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./Images/college_predictor_logo.png" alt="College Predictor Logo" width="220"/>
-</p>
 
 <h1 align="center">🎓 College Predictor</h1>
 
